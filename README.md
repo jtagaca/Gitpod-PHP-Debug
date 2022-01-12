@@ -1,6 +1,6 @@
 # A PHP Debug template on Gitpod
 
-This is an example of how to debug PHP configured for ephemeral nix based development environments on [Gitpod](https://www.gitpod.io/).
+This is an example of how to debug PHP configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 
