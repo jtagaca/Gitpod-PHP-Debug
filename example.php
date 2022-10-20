@@ -12,6 +12,7 @@ $aBoolean = true;
 $nullValue = null;
 $variableThatsNotSet;
 // hahahah
+// hahahah
 $aLargeArray = array_fill(0, 100, 'test');
 $arrayWithSpaceKey = array('space key' => 1);
 echo "HelloS";
