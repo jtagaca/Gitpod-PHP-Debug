@@ -11,6 +11,7 @@ $aVeryLongString = str_repeat('lol', 1000);
 $aBoolean = true;
 $nullValue = null;
 $variableThatsNotSet;
+// hahahah
 $aLargeArray = array_fill(0, 100, 'test');
 $arrayWithSpaceKey = array('space key' => 1);
 echo "HelloS";
